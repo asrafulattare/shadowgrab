@@ -1,4 +1,4 @@
 {
-  "name": "Asraful",
-  "role": "student"
+  "appName": "ShadowGrab",
+  "webhookURL": "https://asrafulattare.github.io/shadowgrab/data.json"
 }
