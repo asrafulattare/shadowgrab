@@ -2,7 +2,7 @@
   "versionCode": 2,
   "versionName": "1.0.1",
   "apkUrl": "https://aftie.eu/app-1.0.1.apk",
-  "sha256": "79:B4:4B:2D:53:62:04:91:05:5B:04:C3:8D:60:72:E5:4A:18:D2:71:C3:FE:CC:35:04:C8:91:16:B7:CA:7E:DB",
+  "sha256": "0cf9a38339cc3350ea77e8d7b67b011fb014f4da5d046d94bc742aefb11e4b70",
   "mandatory": false,
   "notes": "Bug fixes + performance improvements"
 }
