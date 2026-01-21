@@ -2,7 +2,7 @@
   "versionCode": 23,
   "versionName": "1.4.2",
   "apkUrl": "https://asrafulattare.github.io/shadowgrab/myapp-1.4.2.apk",
-  "sha256": "",
-  "mandatory": true,
+  "sha256": "79:B4:4B:2D:53:62:04:91:05:5B:04:C3:8D:60:72:E5:4A:18:D2:71:C3:FE:CC:35:04:C8:91:16:B7:CA:7E:DB",
+  "mandatory": false,
   "notes": "Bug fixes + performance improvements"
 }
