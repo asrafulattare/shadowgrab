@@ -1,8 +1,8 @@
 {
   "versionCode": 23,
   "versionName": "1.4.2",
-  "apkUrl": "https://yourdomain.com/app/myapp-1.4.2.apk",
-  "sha256": "....optional....",
+  "apkUrl": "https://asrafulattare.github.io/shadowgrab/myapp-1.4.2.apk",
+  "sha256": "",
   "mandatory": true,
   "notes": "Bug fixes + performance improvements"
 }
